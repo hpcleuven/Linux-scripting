@@ -16,6 +16,8 @@ GitHub repository for participants of the "worker & atools" training. For inform
 
 1. [`hands-on5-scripting.pdf`](hands-on5-scripting.pdf) - exercises (and hints) for the fifth hands on session,
 
+1. [`scripting.tar.gz`](scripting.tar.gz) - collection of scripts used in the slides and for hands on sessions,
+
 1. README.md - info about content,
 
 1. docs - directory containing the website for this repository.
