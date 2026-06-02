@@ -12,7 +12,7 @@ This course will give an introduction to Linux scripting with an introduction to
 - Shell logic structures (sequence, decision, loops)
 - Shell functions
 - i/o issues
-- Using Linux scripting in writing PBS scripts for HPC
+- Using Linux scripting in writing slurm scripts for HPC
 - This course provides hands-on sessions
 	
 ## Target
@@ -33,6 +33,4 @@ Having a basic knowledge of Linux is expected (if not please follow first the Li
 - Being able to write a script using logic structures (test, sequence, decision, loop)
 
 ## Reminder
-If you are planning to use your VSC account during hand-on sessions and you already asked for the vsc-account and created a key-pair, in order to speed up the vsc-account use during the practical exercise, please bring your private key with you (on your laptop or on your usb-stick) to be able to login. If you lost it or you do not remember the passphrase associated with it - we will assist you in creating a new key pair.
-
-If you do not have KU Leuven ID (e.g. u-, r- or s- number), please contact us (hpcinfo@kuleuven.be) so that we can create a temporary account for you, with which you will be able to login on computers used during hands-on sessions or use wifi on your own laptop.
+If you do not have KU Leuven ID  (e.g. u-, r- or s- number) and you wish to use our computers for hands-on sessions, please contact us (hpcinfo@kuleuven.be) so that we can create a temporary account for you, with which you will be able to login on computers used during hands-on sessions. Otherwise you can use wifi on your own laptop.
