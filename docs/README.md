@@ -4,6 +4,8 @@
 This course will give an introduction to Linux scripting with an introduction to the mostly used loops while programming
 - How to create script files in Bash shell- Basic loops in Linux
 - Return values
+- Printing output
+- Sequences and reversing imput
 - Setting variables
 - Command line parameters
 - Arithmetic in bash
