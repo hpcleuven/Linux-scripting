@@ -5,14 +5,15 @@ This course will give an introduction to Linux scripting with an introduction to
 - How to create script files in Bash shell- Basic loops in Linux
 - Return values
 - Setting variables
-- Using quotes
 - Command line parameters
+- Arithmetic in bash
 - Introduction to expressions
 - Test conditions
 - Shell logic structures (sequence, decision, loops)
 - Shell functions
+- Arrays in bash
 - i/o issues
-- Using Linux scripting in writing slurm scripts for HPC
+- Using Linux scripting in writing SLURM scripts for HPC
 - This course provides hands-on sessions
 	
 ## Target
