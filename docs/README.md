@@ -28,7 +28,7 @@ Total duration: 4 hours.
 Free of charge
 	
 ## Prerequisites
-Having a basic knowledge of Linux is expected (if not please follow first the Linux-introduction course). Users that want to use VSC account for hands-on sessions should already have a VSC account created (bring the private key) and should have followed HPC introduction and Linux for HPC or should have the equivalent knowledge).
+Having a basic knowledge of Linux is expected (if not please follow first the Linux-introduction course). Users that want to use VSC account for hands-on sessions should already have a VSC account created and should have followed HPC introduction and Linux for HPC or should have the equivalent knowledge).
 	
 ## Result
 - Understanding and writing short Linux scripts
